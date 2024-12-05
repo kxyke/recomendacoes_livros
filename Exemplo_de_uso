@@ -1,0 +1,12 @@
+?- recomendacao.
+Bem-vindo ao Sistema de Recomendações de Livros!
+Informe seus interesses (digite "parar" para encerrar):
+|: politica.
+
+Livro Recomendado: 1984 (Gênero: ficcao, Interesse: politica)
+
+Informe seus interesses (digite "parar" para encerrar):
+|: parar.
+Fim das recomendações.
+
+Desenvolvido por: [Kayke de Souza]
